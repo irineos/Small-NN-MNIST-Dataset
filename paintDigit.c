@@ -194,7 +194,7 @@ int main(int argc, char** argv){
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(WIDTH, HEIGHT);
 	glutInitWindowPosition(600, 300);
-	glutCreateWindow("Test MNIST Dataset");
+	glutCreateWindow("Draw Digits");
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
 	glOrtho(0.0f, WIDTH, HEIGHT, 0.0f, 0.0f, 1.0f);

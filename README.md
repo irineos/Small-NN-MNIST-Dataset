@@ -18,4 +18,4 @@ I made a small neural network with my [Simple Neural Network Library](https://gi
 
     gcc paintDigit.c -o paint -lGL -lGLU -lglut -lm && ./paint
   
-   ![alt test](https://github.com/irineos/Small-NN-Learns-MNIST-Dataset/blob/main/DrawDigitsScreenshot.png)
+   ![alt test](https://github.com/irineos/Small-NN-Learns-MNIST-Dataset/blob/main/drawDigitsScreenshot.png)

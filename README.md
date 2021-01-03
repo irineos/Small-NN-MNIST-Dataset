@@ -11,7 +11,10 @@ I made a small neural network with my [Simple Neural Network Library](https://gi
 
     gcc testMNIST.c -o test -lGL -lGLU -lglut -lm && ./test  
     
-   ![alt test](https://github.com/irineos/Small-NN-Learns-MNIST-Dataset/blob/main/testMNISTScreenshot.png)
+   ![alt test](https://github.com/irineos/Small-NN-Learns-MNIST-Dataset/blob/main/testMNISTScreenshot.png)  
+   
+   Left click or use the arrow keys to change images.
+   
     
   
 ### You can also draw your own digits to test further your model's capabilities  
